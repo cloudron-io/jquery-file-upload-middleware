@@ -1,5 +1,5 @@
 {
-  "name": "jquery-file-upload-middleware",
+  "name": "jquery-file-upload-middleware-fix2",
   "author": "Aleksandr Guidrevitch <aguidrevitch@gmail.com>",
   "description": "jQuery-File-Upload Express.js Middleware",
   "keywords": [
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/aguidrevitch/jquery-file-upload-middleware.git"
+    "url": "git://github.com/cloudron-io/jquery-file-upload-middleware.git"
   },
   "main": "./index.js",
   "readmeFilename": "README.md",

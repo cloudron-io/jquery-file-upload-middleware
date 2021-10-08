@@ -1,6 +1,8 @@
 jquery-file-upload-middleware
 =============================
 
+This fixes the module due to upstream inactivity for more modern nodejs versions.
+
 jQuery-File-Upload Express.js middleware. Based on the server code of [jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload)
 
 Installation:
